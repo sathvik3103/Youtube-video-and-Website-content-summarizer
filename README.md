@@ -78,3 +78,8 @@ The application uses:
 - YouTube videos must have available transcripts
 - Websites must be accessible and contain readable content
 
+
+Sample Output:
+- ![Sample Output](https://github.com/user-attachments/assets/0ee219f3-4a1a-4330-a07c-2574c81f8775)
+
+
